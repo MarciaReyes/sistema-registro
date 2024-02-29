@@ -1,3 +1,5 @@
 <h1> sistema registro</h1>
 
-- Estado del proyecto
+- Estado del proyecto construcion
+
+Para ejecutar el sistema , debes poner:
